@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  padding: 1rem;
+  background-color: greenyellow;
+}
+
+h3 {
+  background-color: #ccc;
+  padding: 5px;
+  text-align: center;
+}
+
+h4 {
+  background-color: gray;
+  padding: 5px;
+  text-align: left;
+}
+
+h5 {
+  background-color: pink;
+  padding: 5px;
+  text-align: right;
+}
+
+p {
+  background-color: red;
+  line-height: 50px;
+}
+
+h2 {
+  background-color: #ccc;
+  text-transform: capitalize;
+}
+
+span {
+  display: block;
+  text-decoration: underline;
+}
+
+strong {
+  display: block;
+  text-decoration: line-through;
+}
+
+section h4 {
+  text-decoration: none;
+  letter-spacing: 20px;
+}
+
+section h3 {
+  text-decoration: none;
+  margin-top: 1rem;
+  word-spacing: 15px;
+}

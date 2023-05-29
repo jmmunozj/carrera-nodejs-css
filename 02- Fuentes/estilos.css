@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  padding: 1rem;
+  background-color: orangered;
+}
+
+#p1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#p2 {
+  font-size: 1rem;
+}
+
+#p3 {
+  font-size: 32px;
+}
+
+#p4 {
+  font-weight: bold;
+}
+
+#p5 {
+  font-style: italic;
+}
+
+#p6 {
+  text-transform: uppercase;
+}
+
+#p7 {
+  text-transform: lowercase;
+}
+
+#p8 {
+  text-transform: capitalize;
+}
+
+h3 {
+  background-color: #fff;
+  text-align: center;
+  padding: 1rem;
+}

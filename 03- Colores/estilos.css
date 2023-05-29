@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  padding: 1rem;
+  background-color: brown;
+}
+
+#p1 {
+  color: red;
+}
+
+#p2 {
+  color: #000;
+}
+
+#p3 {
+  color: rgba(115, 45, 04);
+}
+
+#p4 {
+  color: rgba(115, 245, 211, 0.6);
+}
+
+h3 {
+  background-color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
